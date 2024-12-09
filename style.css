@@ -1,0 +1,78 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+header {
+    background-color: white;
+    position: sticky;
+    top: 0px;
+
+}
+.main {
+    margin: 10px;
+    text-align: center;
+}
+nav {
+    margin-left: 300px;
+    font-size: 25px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+
+
+}
+a {
+    text-decoration: none;
+    color: black;
+
+
+}
+
+.item-1,
+.item-2,
+.item-3,
+.item-4 {
+    width: 300px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-family: "Karma", serif;
+}
+.About {
+    width: 500px;
+    margin: 5px;
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.food {
+
+    vertical-align: top;
+    display: inline-block;
+
+}
+
+p {
+    text-align: center;
+    padding: 10px;
+    vertical-align: top;
+}
+
+h3 {
+    text-align: center;
+    font-size: 26px;
+    padding: 24px;
+}
+
+i {
+    color: red;
+}
+
+img {
+    width: 100%;
+    text-decoration: none;
+}
